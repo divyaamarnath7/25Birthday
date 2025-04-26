@@ -1,34 +1,16 @@
-Happy Birthday
+Happy Birthday Sunshine!
 
-A Happy Birthday animation design in CSS3, HTML5.
+I love youuuuuu and wish you a very happy birthday my prettiest boy!
+Hope you have an amazing day and a fab birthday!
 
-URL: https://sapthesh.github.io/Birthday/
+Step 1: Install git 
+Ref link: https://git-scm.com/downloads/mac
 
-Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
+Once done the intiate the repository in your present working directory.
 
-# Setup
+mkdir file_name
+cd file_name
+git init
+Then execute: git clone:
 
-## If you have python installed:
-```
-cd Birthday
-```
-
-&& 
-
-```
-python -m SimpleHTTPServer --port  8081
-```
-
-visit http://localhost:8081 in your browser.
-
-## If you have nodejs installed
-```
-npm install
-```
-&&
-
-```
-npm run server-node
-```
-visit http://localhost:8081 in your browser.
-
+ 
